@@ -1,6 +1,4 @@
-# SQL 学习笔记
-
-# 基于Navicat for SQLite的SQL语句训练
+# SQL 学习笔记 ：基于Navicat for SQLite
 
  安装**Navicat for SQLite**，安装完成后，点击Connection——New SQLite 3，在Database File选择本地的数据库地址。
  
