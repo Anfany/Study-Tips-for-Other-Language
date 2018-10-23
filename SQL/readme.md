@@ -4,16 +4,16 @@
  
  如图：
  
- ![image](https://github.com/Anfany/Python3-Practice/blob/master/sqlite/db.png)
+ ![image](https://github.com/Anfany/Study-Tips-for-Other-Language-/blob/master/SQL/db.png)
  
  本地数据库建立完成后
  
- ![image](https://github.com/Anfany/Python3-Practice/blob/master/sqlite/db1.png)
+ ![image](https://github.com/Anfany/Study-Tips-for-Other-Language-/blob/master/SQL/db1.png)
 
 **一、sql语句编写以及运行**
 
+ ![image](https://github.com/Anfany/Study-Tips-for-Other-Language-/blob/master/SQL/run.png)
 
-
-**[二、SQL语句经典50题](https://github.com/Anfany/Study-Tips-for-Other-Language-/blob/master/SQL/jd50.md**
+**[二、SQL语句经典50题](https://github.com/Anfany/Study-Tips-for-Other-Language-/blob/master/SQL/jd50.md)**
 
 **三、SQL语句进阶题**
