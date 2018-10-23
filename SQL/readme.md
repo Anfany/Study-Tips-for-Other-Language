@@ -14,6 +14,6 @@
 
 
 
-**[二、SQL语句经典50题](https://github.com/Anfany/Study-Tips-for-Other-Language-/blob/master/sqlite/%E7%BB%8F%E5%85%B850.md)**
+**[二、SQL语句经典50题](https://github.com/Anfany/Study-Tips-for-Other-Language-/blob/master/SQL/jd50.md**
 
 **三、SQL语句进阶题**
