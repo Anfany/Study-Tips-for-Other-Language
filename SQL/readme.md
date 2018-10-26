@@ -16,6 +16,6 @@
 
  ![image](https://github.com/Anfany/Study-Tips-for-Other-Language-/blob/master/SQL/run.png)
 
-**[二、SQL语句经典50题](https://github.com/Anfany/Study-Tips-for-Other-Language-/blob/master/SQL/jd50.md)**
+**[二、SQL语句经典题](https://github.com/Anfany/Study-Tips-for-Other-Language-/blob/master/SQL/jd50.md)**
 
 **三、SQL语句进阶题**
